@@ -12,6 +12,7 @@ import { GroupRenderer } from "./render/renderer.group";
 import { MarkdownRenderer } from "./render/markdown.renderer";
 
 import "@kyma-project/dc-markdown-render-engine/lib/styles.css";
+import "@kyma-project/asyncapi-react/lib/styles/fiori.css"
 
 import "./styles.css";
 import "fiori-fundamentals/dist/fiori-fundamentals.css";
